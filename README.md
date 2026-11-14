@@ -1,7 +1,9 @@
 # DabuSoft Homebrew tap
 
 ```bash
-brew install --cask dabusoft-pl/tap/tendbar
+brew tap dabusoft-pl/tap
+brew trust dabusoft-pl/tap   # Homebrew 7 asks before loading casks from other taps
+brew install --cask tendbar
 ```
 
 | Cask | App |
