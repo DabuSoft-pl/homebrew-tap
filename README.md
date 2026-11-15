@@ -3,9 +3,10 @@
 ```bash
 brew tap dabusoft-pl/tap
 brew trust dabusoft-pl/tap   # Homebrew 7 asks before loading casks from other taps
-brew install --cask tendbar
+brew install --cask tendbar      # or olive-lamp
 ```
 
 | Cask | App |
 |---|---|
 | `tendbar` | [Tendbar](https://github.com/DabuSoft-pl/tendbar): your Claude Code sessions in the macOS menu bar |
+| `olive-lamp` | [Olive Lamp](https://github.com/DabuSoft-pl/olive-lamp): your OliveTin in the macOS menu bar |
