@@ -1,6 +1,6 @@
 cask "olive-lamp" do
-  version "1.0.0"
-  sha256 "fe303dbc32a109128d9db061c1d1a871c494d4c329d4098714e14a81cbee369e"
+  version "1.0.1"
+  sha256 "1a9751bbf1eb5a4e0c6f97e4d9f5561fa4bab03a44c736f015623ef7f7cd8887"
 
   url "https://github.com/DabuSoft-pl/olive-lamp/releases/download/v#{version}/OliveLamp-#{version}.dmg"
   name "Olive Lamp"
