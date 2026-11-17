@@ -1,6 +1,6 @@
 cask "tendbar" do
-  version "1.1.13"
-  sha256 "bda483cea5866cc88ae013f8d86493c383b8013fac07a1d6cb309f889c1c6ecc"
+  version "1.1.14"
+  sha256 "6740d3820cd85571b454eb5ac6cc9f906af89a79d69c544526167ceb3d916d8c"
 
   url "https://github.com/DabuSoft-pl/tendbar/releases/download/v#{version}/Tendbar-#{version}.dmg"
   name "Tendbar"
