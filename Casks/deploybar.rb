@@ -1,6 +1,6 @@
 cask "deploybar" do
-  version "0.1.0"
-  sha256 "9ef638528cb2c0880a30dd85f1feb046f03f6c7a60be3449288d3e98da53c892"
+  version "0.1.1"
+  sha256 "2becbd8442d7bfb6de0a5776d575946b92bf3d5c5d5a850af0f9ee67bbe543a5"
 
   url "https://github.com/DabuSoft-pl/deploybar/releases/download/v#{version}/Deploybar-#{version}.dmg"
   name "Deploybar"
